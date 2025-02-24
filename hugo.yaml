@@ -1,0 +1,124 @@
+baseURL: "https://shanlongyuan.github.io/"
+title: "Shanlong Yuan"  # 网站标题与博客名一致
+# 新版分页配置
+pagination:
+  pagerSize: 10  # 替代旧版paginate参数
+  # 可选：自定义分页路径（如不需要可删除）
+  path: "page/:page/"
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "Shanlong Yuan's Blog"  # SEO优化标题
+  description: "记录技术探索与开发实践"  # 更具体的中文描述
+  keywords: [技术博客, 编程开发, 算法研究, 系统设计]  # 中文关键词优化
+  author: "Shanlong Yuan"
+  images: ["/web-app-manifest-512x512.png"]  # 建议使用站点logo路径
+  DateFormat: "2006-01-02"  # 符合国内阅读习惯
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  # 显示控制优化
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false  # 面包屑导航在博客中通常不需要
+  ShowCodeCopyButtons: true  # 启用代码复制按钮
+  ShowWordCount: true
+  UseHugoToc: true  # 启用目录功能
+  showtoc: true  # 显示目录
+  tocopen: true  # 默认展开目录
+
+  assets:
+    favicon: "/favicon.ico"  # 建议添加实际存在的图标文件
+    favicon16x16: "/favicon-96x96.png"
+    favicon32x32: "/favicon-192x192.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
+  label:
+    text: "首页"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # 个人资料模块优化
+  profileMode:
+    enabled: true  # 启用个人资料展示
+    title: "Shanlong Yuan"
+    subtitle: "代码构筑理想世界"
+    imageUrl: "/avatar.png"  # 建议添加200x200头像
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: 文章
+        url: posts
+      - name: 标签
+        url: tags
+
+  # 首页欢迎语优化
+  homeInfoParams:
+    Title: "欢迎来到我的技术博客 👋"
+    Content: "这里分享编程开发、系统架构、算法实践等内容"
+
+  # 社交链接更新
+  socialIcons:
+    - name: github
+      url: "https://github.com/shanlongyuan"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/yourprofile"  # 建议替换真实链接
+    - name: twitter
+      url: "https://twitter.com/yourhandle"
+
+  # 统计代码配置（按需启用）
+  analytics:
+    google:
+      SiteVerificationTag: "your_google_tag"  # 添加Google验证代码
+    baidu:  # 添加百度统计支持
+      SiteVerificationTag: "your_baidu_tag"
+
+  editPost:
+    URL: "https://github.com/shanlongyuan/shanlongyuan.github.io/edit/main/content"  # 真实编辑地址
+    Text: "改进本文"
+    appendFilePath: true
+
+  # 搜索优化
+  fuseOpts:
+    threshold: 0.3  # 降低阈值提高搜索灵敏度
+    keys: ["title", "summary", "content"]
+
+# 菜单优化（添加中文导航）
+menu:
+  main:
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 20
+    - identifier: projects
+      name: 项目
+      url: /projects/  # 建议创建项目页面
+      weight: 30
+    - identifier: about
+      name: 关于
+      url: /about/  # 建议创建关于页面
+      weight: 40
+
+# 代码高亮优化
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true  # 显示行号
+    lineNumbersInTable: true
+    style: dracula  # 更护眼的代码主题

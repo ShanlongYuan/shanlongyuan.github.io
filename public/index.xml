@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shanlong Yuan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Shanlong Yuan</description>
+    <image>
+      <title>Shanlong Yuan</title>
+      <url>http://localhost:1313/web-app-manifest-512x512.png</url>
+      <link>http://localhost:1313/web-app-manifest-512x512.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Feb 2025 18:51:12 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 24 Feb 2025 18:51:12 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
