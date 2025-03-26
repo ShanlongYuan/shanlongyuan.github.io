@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Category 1 on Shanlong Yuan</title>
+    <link>http://localhost:1313/zh/categories/category-1/</link>
+    <description>Recent content in Category 1 on Shanlong Yuan</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 13 Mar 2025 19:33:53 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/zh/about/</link>
+      <pubDate>Thu, 13 Mar 2025 19:33:53 +0800</pubDate>
+      <guid>http://localhost:1313/zh/about/</guid>
+      <description>&lt;!-- more --&gt;
+&lt;p&gt;00后 江西航空职业技术学院在读  计算机网络技术专业
+本网站汇集了我的所学所思与知识资源，既方便自己查阅，也希望为大家提供参考。欢迎在博客底部留言交流！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

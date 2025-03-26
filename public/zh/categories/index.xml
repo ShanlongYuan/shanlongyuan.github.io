@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Shanlong Yuan</title>
+    <link>http://localhost:1313/zh/categories/</link>
+    <description>Recent content in Categories on Shanlong Yuan</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 13 Mar 2025 21:51:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客搭建</title>
+      <link>http://localhost:1313/zh/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Thu, 13 Mar 2025 21:51:55 +0800</pubDate>
+      <guid>http://localhost:1313/zh/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>技术</title>
+      <link>http://localhost:1313/zh/categories/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Thu, 13 Mar 2025 21:51:55 +0800</pubDate>
+      <guid>http://localhost:1313/zh/categories/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
