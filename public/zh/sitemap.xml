@@ -2,47 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh/posts/tech/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/posts/tech/</loc>
+    <lastmod>2025-03-26T22:05:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/posts/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/posts/</loc>
+    <lastmod>2025-03-26T22:05:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/categories/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/categories/</loc>
+    <lastmod>2025-03-26T22:05:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/posts/tech/hugo-papermod%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/tags/hugo/</loc>
+    <lastmod>2025-03-26T22:05:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/tags/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/posts/tech/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2025-03-26T22:05:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/tags/</loc>
+    <lastmod>2025-03-26T22:05:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-03-26T22:05:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/tags/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/</loc>
+    <lastmod>2025-03-26T22:05:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/tags/ai/</loc>
+    <lastmod>2025-02-17T13:06:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/</loc>
-    <lastmod>2025-03-13T21:51:55+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/zh/posts/tech/%E8%B0%83%E7%94%A8api%E4%BD%BF%E7%94%A8%E6%BB%A1%E8%A1%80%E7%89%88deepseek%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2025-02-17T13:06:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/about/</loc>
-    <lastmod>2025-03-13T19:33:53+08:00</lastmod>
+    <loc>https://shanlongyuan.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://shanlongyuan.github.io/zh/posts/read/</loc>
   </url><url>
-    <loc>http://localhost:1313/zh/posts/read/</loc>
+    <loc>https://shanlongyuan.github.io/zh/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/zh/search/</loc>
+    <loc>https://shanlongyuan.github.io/zh/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/zh/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/zh/posts/lift/</loc>
+    <loc>https://shanlongyuan.github.io/zh/posts/lift/</loc>
   </url>
 </urlset>
